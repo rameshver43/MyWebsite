@@ -1,22 +1,17 @@
 {
   "main": {
-    "name": "Nordic-Giant Project",
+    "name": "Rameshver",
     "description": "I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "My Name is Rameshver. I am from Meerut, UP. I have done my 12th schooling from JNV Rangareddy and 10th schooling from JNV Meerut. Currently, I am pursuing a  Btech degree from IIT Jodhpur with the department of computer science and Engineering. My interest and skill include competitive coding in C++ and web development and app development in ReactJs. I am a 4* CodeChef coder. I have done an internship in the domain of web development and app development using React.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github": "",
-    "project": "",
-    "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
-    },
+    "email": "rameshver091299@gmail.com",
+    "phone": "7500250339",
+    "github": "https://github.com/rameshver43/",
+    "project": "https://github.com/rameshver43/",
+    "address": {},
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
